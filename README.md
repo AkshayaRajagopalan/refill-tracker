@@ -51,6 +51,6 @@ Simple rules:
 - Each day gets at most `frequencyPerDay` dose entries; existing entries are kept and not duplicated.
 - Nothing is created for today or future dates.
 
-Quick examples (today = 2025-10-21):
+Quick example (today = 2025-10-21):
 
 - startDate=2025-10-19, frequencyPerDay=2 → adds 2 doses for 2025-10-19 and 2 for 2025-10-20.
