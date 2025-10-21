@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ss",
+    "dosage": "12mg",
+    "frequencyPerDay": 1,
+    "startDate": "2025-10-19",
+    "quantity": 30,
+    "daysSupply": 30,
+    "id": "0dd11662-bf3a-4108-9be9-947dbd08e8ee",
+    "doses": [
+      {
+        "date": "2025-10-19",
+        "taken": true
+      },
+      {
+        "date": "2025-10-20",
+        "taken": true
+      }
+    ]
+  }
+]

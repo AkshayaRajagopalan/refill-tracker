@@ -1,0 +1,10 @@
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; padding: 20px; }
+.container { max-width: 900px; margin: 0 auto }
+.card { border: 1px solid #ddd; padding: 12px; border-radius: 8px; margin-bottom: 12px }
+.grid { display: grid; grid-template-columns: 1fr 320px; gap: 16px }
+.progress { height: 12px; background: #eee; border-radius: 6px; overflow: hidden }
+.progress > div { height: 100%; background: linear-gradient(90deg,#4caf50,#8bc34a) }
+.btn { padding: 6px 10px; border-radius: 6px; border: 1px solid #bbb; background: white; cursor: pointer }
+.btn-danger { border-color: #e53935; color: #e53935 }
+.muted { color: #666 }
+
